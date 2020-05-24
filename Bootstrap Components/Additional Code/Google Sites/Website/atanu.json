@@ -1,0 +1,23 @@
+{
+    "atanu": {
+        "name": "Atanu Chatterjee",
+        "display_picture":"/Users/undi69/Desktop/Website/im.jpeg",
+        "academic_status":"Graduate",
+        "interests": [],
+        "office_room": "Olin Hall 004",
+        "phone_number": "911",
+        "mobile": "911",
+        "email_id": "yyadati@wpi.edu",
+        "googlescholar_url": "https://scholar.google.com/citations?user=fBzQfFAAAAAJ&hl=en",
+        "researchgate_url": null,
+        "personalwebsite_url": null,
+        "linkedin_url": null,
+        "about_me": "Whatever i want to say",
+        "publications": {
+            "title": [],
+            "url": [],
+            "year": []
+        },
+        "resume": "huge resume"
+    }
+}

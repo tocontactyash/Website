@@ -1,0 +1,14 @@
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    clip: rect(0px,100px,200px,0px);
+}
+.image2 {
+    position: absolute;
+    top: 30px;
+    left: 70px;
+}
+.people-dir {
+    padding-top: 20px;
+}

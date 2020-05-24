@@ -1,0 +1,27 @@
+a {
+  /*a{text-decoration: none};*/
+}
+
+.navbar-light .navbar-brand {
+  background-image: url("Artboard 6.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 0px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.navbar.navbar-light.navbar-expand-md.fixed-top {
+  font-size: 20px;
+  line-height: inherit;
+  opacity: 0.95;
+}
+
+#a {
+  border-bottom: solid 1px black;
+}
+
+.row.no-gutters.recpub-row {
+  border-bottom: solid 1px black;
+}
+

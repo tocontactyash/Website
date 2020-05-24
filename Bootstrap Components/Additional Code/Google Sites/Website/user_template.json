@@ -1,0 +1,19 @@
+{
+    "yash": {
+        "name": "Yash Yadati",
+        "display_picture":"",
+        "academic_status":"Undergraduate",
+        "interests": [],
+        "office_room": "Olin Hall 004",
+        "phone_number": "100",
+        "mobile": "100",
+        "email_id": "yyadati@wpi.edu",
+        "googlescholar_url": "https://scholar.google.com/citations?user=fBzQfFAAAAAJ&hl=en",
+        "researchgate_url": null,
+        "personalwebsite_url": null,
+        "linkedin_url": null,
+        "about_me": "Whatever i want to say",
+        "publications": ["abcd"],
+        "resume": "idk how to provide pdf for resume"
+    }
+}
